@@ -22,10 +22,10 @@ I specialize in **Full Stack Web Development**, **Python**, **JavaScript (ES6+)*
 
 ## 🎓 Education
 
+- 🎓 **Academic Standing:** 4th-Year Undergraduate (Final Year)
 - 🏛️ **Bachelor of Technology — Computer Science & Engineering (AI & ML)**
 - 🏫 **Brainware University**, Kolkata
 - 📈 **CGPA:** 8.54
-- 📅 **Expected Graduation:** 2027
 
 ---
 
