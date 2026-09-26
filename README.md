@@ -51,7 +51,7 @@ I specialize in **Full Stack Web Development**, **Python**, **JavaScript (ES6+)*
 
 - 🔍 **[AI Contract Risk Analyzer](https://github.com/Kritzz-23/ai-contract-risk-analyzer)** — NLP-assisted contract risk analysis platform flagging risky clauses and legal liabilities in real time.
 - 🎯 **[InternIntel AI](https://github.com/Kritzz-23/InternIntel-AI)** — Intelligent platform helping students discover, match, and manage internship opportunities with semantic skill scoring.
-- 🛡️ **[SentinelAI](https://github.com/Kritzz-23/SentinelAI)** — Incident intelligence platform parsing application logs and clustering anomaly traces for fast triage.
+- 🛡️ **[SentinelAI](https://github.com/Kritzz-23/SentinelAI)** ([Live Demo](https://kritzz-23.github.io/SentinelAI/)) — Incident intelligence & root cause analysis platform with real-time log triage and failure simulation.
 - 💰 **[Smart Expense Tracker](https://github.com/Kritzz-23/expense-tracker)** — Responsive personal finance web application with persistent client storage and real-time visualization.
 
 ---
