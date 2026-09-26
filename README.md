@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kritika Giri 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Aspiring+AI+%26+Full+Stack+Engineer;3rd-Year+AIML+Undergraduate;Applied+ML+%26+NLP+Specialist;Building+Intelligent+Web+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Full+Stack+Software+Engineer;Python+%26+React+Specialist;Building+Scalable+Web+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## ⚡ Introduction
 
-Hi, I'm **Kritika Giri**, a 3rd-year **Computer Science & Engineering (AI & ML)** student at **Brainware University** in Kolkata, India.
+Hi, I'm **Kritika Giri**, a **Full Stack Developer** and Computer Science & Engineering student at **Brainware University** in Kolkata, India.
 
-I specialize in **Python**, **Applied Machine Learning**, **Natural Language Processing (NLP)**, and **Modern Full-Stack Web Development**. I love turning algorithms and data streams into high-impact, user-friendly products—from transformer-powered contract analysis tools to telemetry incident platforms.
+I specialize in **Full Stack Web Development**, **Python**, **JavaScript (ES6+)**, **React**, **FastAPI**, and **Applied AI Systems**. I love architecting robust end-to-end applications—from high-throughput backend APIs and SQL databases to responsive, accessible modern web interfaces.
 
 ---
 
